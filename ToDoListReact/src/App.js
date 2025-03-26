@@ -53,21 +53,6 @@ function App() {
             );
           })}
         </ul>    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
       </section>
     </section >
   );
